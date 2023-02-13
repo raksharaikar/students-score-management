@@ -1,0 +1,1 @@
+<p>Number of students who passed all courses: {{ $passing_student_count }}</p>
